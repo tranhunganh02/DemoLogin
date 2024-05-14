@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoAppFirebase</string>
+    <string name="hide_password">hide password</string>
+    <string name="show_password">show password</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="dont_have_account">don\'t have an account</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="name">username</string>
+    <string name="logout">logout</string>
+    <string name="signup">Signup</string>
+    <string name="username">username</string>
+    <string name="last_name">last name</string>
+    <string name="first_name">first_name</string>
+</resources>
